@@ -1,0 +1,28 @@
+.space{
+	margin-top: 5vh;
+}
+.clr1 {
+    background-color: #f3f4f7;
+}
+.clr2{
+	background-color: #fafbf9;
+}
+.smallImage{
+    max-height: 50px;
+}
+.margin{
+	margin-top: 10px;
+    margin-bottom:10px;
+}
+.superSmallImage{
+    max-height: 20px;
+}
+.clr3 {
+	background-color: white;
+}
+.removeMargin{
+	padding: 0px;
+	margin-top:-20px;
+	margin-bottom:-20px;
+}
+
